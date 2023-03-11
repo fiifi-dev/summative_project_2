@@ -18,7 +18,7 @@ You will also provide support for querying with GraphQL. In addition, you will p
 4. As an API user, I would like to find all books by a given author.
 
 ## Video Description
-- Dickson Afful: 
+- Dickson Afful: https://drive.google.com/file/d/1vuiEM565ukONYH6oUzREWx-CWhwbjcMx/view?usp=sharing
 - Francis Oledibe: 
 
 ### References
